@@ -65,9 +65,6 @@ function myFunction() {
 
 
 
-
-
-
 (function() {
 
     const productsContainer = document.querySelector("#grid");
