@@ -85,7 +85,7 @@ header .logo span{
 header .navbar{
     color: #333;
     font-size: 2rem;
-    padding: 0 1.5rem
+    padding: 0 1.5rem;
 }
 
 header .navbar a:hover{
@@ -135,7 +135,7 @@ header .icons #menu-bars{
     border: 1rem solid rgba(0,0,0,.2);
     width: 70rem;
     padding: 2rem;
-    opacity: 0.8;
+    opacity: 0.7;
 }
 
 .home form h3{
@@ -212,6 +212,12 @@ header .icons #menu-bars{
 #Btn{
     font-size: 2rem;
     border-color: #c8fc0e;
+}
+
+
+#DivM{
+    margin-top: 150px;
+    margin-bottom: 50px;
 }
 
 
