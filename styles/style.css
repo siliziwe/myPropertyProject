@@ -118,7 +118,7 @@ header .icons #menu-bars{
 
 .home{
     min-height: 100vh;
-    background: url(/images/550537.jpg) no-repeat;
+    background: url(/images/04header-bend-oregon-custom-home-builders.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -135,6 +135,7 @@ header .icons #menu-bars{
     border: 1rem solid rgba(0,0,0,.2);
     width: 70rem;
     padding: 2rem;
+    opacity: 0.8;
 }
 
 .home form h3{
@@ -207,6 +208,11 @@ header .icons #menu-bars{
     line-height: 2;
 }
 
+
+#Btn{
+    font-size: 2rem;
+    border-color: #c8fc0e;
+}
 
 
 #myInput {
